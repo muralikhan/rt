@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class biggest
+class largest
 {
     public static void main(String args[])
     {
