@@ -24,7 +24,7 @@ else
 n++;
 }
 system.out.println("the no is pos");
-system.out.println("the no is pos");
+system.out.println("the no is neg");
 }
 else
 {
